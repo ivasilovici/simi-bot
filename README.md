@@ -10,7 +10,7 @@ The interface allows users to interact with Simi, the chatbot, and switch betwee
 
 ## Corpora
 
-- **Catalan Corpus** — A small, domain-specific dataset of 536 conversational pairs designed for everyday dialogue in Catalan, with a defined chatbot persona.
+- **Catalan Corpus** — A small, domain-specific dataset of 1,072 conversational pairs designed for everyday dialogue in Catalan, with a defined chatbot persona.
 - **OpenSubtitles** — A large corpus of 605,957 lines of Catalan film subtitles, used as a noisier and less curated training source.
 
 ## Authors
